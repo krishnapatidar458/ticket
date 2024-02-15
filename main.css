@@ -122,8 +122,73 @@ body{
     border-radius: 20px;
     background-color: #ff7269;
     z-index: 1;
-    
-
-
   }
+
+  /* radio  */
+
+  .form-controle {
+    display: grid;
+    grid-template-columns: 1em auto;
+    gap: 0.5em;
+  }
+
+  input[type="radio"] {
+    appearance: none;
+    background-color: #fff;
+    margin: 0;
+    font: inherit;
+    color: #f98e40;
+    width: 0.65em;
+    height: 0.65em;
+    border: 0.09em solid rgb(111, 111, 111);
+    border-radius: 50%;
+    font-weight: 500;
+    font-size: 1.8rem;
+    transform: translateY(-0.075em);
+    display: grid;
+  place-content: center;
+  }
+
+  input[type="radio"]::before {
+    content: "";
+    width: 0.25em;
+    height: 0.25em;
+    border-radius: 50%;
+    margin: 20px;
+    font-weight: 500;
+    font-size: 1.8rem;
+    transform: scale(0);
+    transition: 120ms transform ease-in-out;
+    box-shadow: inset .09em 0.09em #f98e40;
+    background-color: #f98e40;
+  }
+
+  input[type="radio"]:checked::before {
+    transform: scale(1);
+  }
+
+  input[type="radio"]:focus {
+    border-color: #f98e40! important;
+    background-color: white;
+  }
+  input[type="radio"]:checked {
+    border-color: #f98e40! important;
+    background-color: #ffffff;
+  }
+
+  /* help  */
+  .help{
+    width:fit-content ;
+    position: fixed;
+    right: 0;
+    bottom: 4%;
+    z-index: 2;
+    
+  }
+  .help-icon{
+    background-color: #ff6127;
+    border-radius: 100%;
+  }
+
+
 
