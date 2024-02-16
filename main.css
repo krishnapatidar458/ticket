@@ -84,6 +84,9 @@ body{
 .invart {
     filter: invert(100%);
  }
+ a{
+    text-decoration: none;
+ }
 
 
 /* header  */
