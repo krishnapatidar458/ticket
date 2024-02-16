@@ -60,6 +60,9 @@ body{
 .font-red{
     color: red;
 }
+.font-pink{
+    color: rgb(248, 81, 218);
+}
 .font-size-1{
     font-size: 16px;
 }
@@ -70,7 +73,7 @@ body{
     font-size: 12px;
 }
 .bolder{
-    font-weight: 500;
+    font-weight: 600;
 }
 .bold{
     font-weight: 300;
@@ -197,5 +200,7 @@ body{
     min-height: 200px;
   }
 
+
+  /* show ticket  */
 
 

@@ -5,4 +5,4 @@ function show1(){
   function show2(){
     document.getElementById('paper-text').style.display = 'block';
     document.getElementById('paperless-text').style.display ='none';
-  }
+  }  
