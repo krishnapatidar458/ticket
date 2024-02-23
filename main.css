@@ -1,4 +1,6 @@
-body,p,img{
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Kanit:ital,wght@1,700&family=Koulen&family=Lato:ital,wght@1,100&family=Moon+Dance&family=Oxanium:wght@200&family=Poppins:wght@300;500&family=Tiro+Devanagari+Hindi&display=swap');
+
+ body,p,img{
     margin: 0;
     font-family: "Google Sans", Roboto, Helvetica, Arial, sans-serif;
 }
@@ -45,6 +47,15 @@ body{
 .bg-grey{
     background-color: #f0efef; 
 }
+.bg-black{
+    background-color: black;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-purple{
+    background-color: purple;
+}
 .font-white{
     color: white;
 }
@@ -63,11 +74,19 @@ body{
 .font-pink{
     color: rgb(248, 81, 218);
 }
+
 .font-size-1{
     font-size: 16px;
 }
 .font-size-2{
     font-size: 15px;
+}
+.font-size-14{
+    font-size: 14px;
+}
+
+.font-size-13{
+    font-size: 13px;
 }
 .font-size-3{
     font-size: 12px;
@@ -99,11 +118,17 @@ body{
     padding: 0 9% 0 0px;
     /* min-width: 320px; */
  }
+
  
- hr {
+ .hr-grey {
     background-color: #c7c7c7;
     height: 3px;
     margin: 0;
+    border: none;
+ }
+ .hr-light{
+    background-color: #8d8d8d;
+    height: 1.1px;
     border: none;
  }
 
@@ -204,6 +229,23 @@ body{
   }
 
 
-  /* show ticket  */
-
+  /* ticketing  */
+  .bg-booked{
+    background-image: url(./images/booked-bg.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 80px;
+  }
+   
+  .empty{
+    height: 20px;
+    min-width: 55px;
+  }
+  .hindi{
+    font-family: "Tiro Devanagari Hindi", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
 
