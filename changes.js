@@ -1,8 +1,8 @@
-let fare = 170;
+let fare = 180;
 let source = "bhopal JN.";
 let source_hindi = "भोपाल";
-let destination = "indore jn";
-let destination_hindi = "इंदौर";
+let destination = "Dr. Ambedkar nagar";
+let destination_hindi = "डॉ. आंबेडकर नगर";
 let via = "MKC-DWX";
 let adult = 2;
 let child = 0;
@@ -11,7 +11,7 @@ let train_hindi = "सुपरफास्ट"
 let date = "15/03/2024";
 let time = "4:23"
 let number = "6232625599"
-let distance = "218"
+let distance = "239"
 
 
 
