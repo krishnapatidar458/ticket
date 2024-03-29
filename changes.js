@@ -1,4 +1,4 @@
-let fare = 160;
+let fare = 220;
 let source = "indore jn.";
 let source_hindi = "इंदौर";
 let destination = "ujjain jn.";
