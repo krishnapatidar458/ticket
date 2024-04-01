@@ -1,15 +1,15 @@
-let fare = 220;
-let source = "indore jn.";
-let source_hindi = "इंदौर";
-let destination = "ujjain jn.";
-let destination_hindi = "उज्जैन";
-let via = "FTD";
-let adult = 4;
+let fare = 150;
+let source = "Vidisha";
+let source_hindi = "विदिशा";
+let destination = "bhopal jn.";
+let destination_hindi = "bhopal";
+let via = "SCI";
+let adult = 3;
 let child = 0;
 let train = "superfast (s)"
 let train_hindi = "सुपरफास्ट"
-let date = "29/03/2024";
-let time = "11:37"
+let date = "01/04/2024";
+let time = "5:37"
 let number = "6232625599"
 let distance = "68"
 
