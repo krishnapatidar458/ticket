@@ -1,17 +1,18 @@
-let fare = 65;
-let source = "GANJ BASODA";
-let source_hindi = "गंज बासौदा";
-let destination = "bhopal JN.";
-let destination_hindi = "भोपाल";
-let via = "------";
+
+let fare = 100;
+let source = "bhopal jn.";
+let source_hindi = "भोपाल";
+let destination = "Indore jn.";
+let destination_hindi = "इंदौर";
+let via = "MKC-DWX";
 let adult = 1;
 let child = 0;
-let train = "superfast (s)"
-let train_hindi = "सुपरफास्ट"
-let date = "15/03/2024";
-let time = "7:23"
-let number = "9131285812"
-let distance = "60"
+let train = "superfast (s)";
+let train_hindi = "सुपरफास्ट";
+let date = "16/04/2024";
+let time = "5:17";
+let number = "6232625599";
+let distance = "218";
 
 
 
@@ -35,3 +36,4 @@ document.querySelector("#distance").innerHTML = distance;
 document.querySelector("#source-hindi").innerHTML = source_hindi;
 document.querySelector("#destination-hindi").innerHTML = destination_hindi;
 document.querySelector("#train-hindi").innerHTML = train_hindi;
+document.querySelector("#destination-2").innerHTML = destination;
