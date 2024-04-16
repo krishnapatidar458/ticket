@@ -12,7 +12,7 @@ let train_hindi = "सुपरफास्ट";
 let date = "17/04/2024";
 let time = "2:57";
 let number = "6232625599";
-let distance = "78";
+let distance = "74";
 
 
 
