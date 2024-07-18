@@ -1,18 +1,18 @@
 
-let fare = 300;
-let source = "bhopal jn.";
-let source_hindi = "भोपाल";
-let destination = "indore jn.";
-let destination_hindi = "इंदौर";
-let via = "MKC-DWX";
-let adult = 3;
+let fare = 190;
+let source = "RANI KAMALAPATI";
+let source_hindi = "रानी कमलापति";
+let destination = "REWA";
+let destination_hindi = "रीवा";
+let via = "bina-kte";
+let adult = 1;
 let child = 0;
 let train = "superfast (s)";
 let train_hindi = "सुपरफास्ट";
-let date = "29/05/2024";
-let time = "17:07";
-let number = "6232625599";
-let distance = "218";
+let date = "18/07/2024";
+let time = "20:17";
+let number = "8317856977";
+let distance = "555";
 
 
 
