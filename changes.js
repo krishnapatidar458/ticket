@@ -1,16 +1,16 @@
 
 let fare = 240;
-let source = "Bhopal jn.";
-let source_hindi = "भोपाल";
-let destination = "narmadapuram";
-let destination_hindi = "नर्मदापुरम";
+let source = ""narmadapuram.";
+let source_hindi = "नर्मदापुरम";
+let destination = "bhopal jn";
+let destination_hindi = "भोपाल";
 let via = "MDDP";
 let adult = 4;
 let child = 0;
 let train = "superfast (s)";
 let train_hindi = "सुपरफास्ट";
 let date = "23/09/2024";
-let time = "2:04";
+let time = "7:52";
 let number = "6232625599";
 let distance = "74";
 
