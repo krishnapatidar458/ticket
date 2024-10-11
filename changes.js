@@ -1,17 +1,17 @@
-let fare =  270;
-let source = "BHOPAL JN";
-let source_hindi = "भोपाल";
-let destination = "DR AMBEDKAR NGR";
-let destination_hindi = "डॉ अंबेडकर नगर";
-let via = "MKC-DWX";
-let adult = 3;
+let fare =  256;
+let source = "DR AMBEDKAR NGR";
+let source_hindi = "डॉ अंबेडकर नगर";
+let destination = "S.HIRDARAM";
+let destination_hindi = "";
+let via = "indb-ujn";
+let adult = 2;
 let child = 0;
 let train = "Express";
 let train_hindi = "एक्सप्रेस";
-let date = "09/10/2024";
-let time = "04:07";
+let date = "11/10/2024";
+let time = "11:07";
 let number = "6232625599";
-let distance = "239";
+let distance = "256";
 
 
 
