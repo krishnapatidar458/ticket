@@ -1,21 +1,34 @@
-let fare =  256;
-let source = "DR AMBEDKAR NGR";
-let source_hindi = "डॉ अंबेडकर नगर";
+//let fare =  256;
+//let source = "DR AMBEDKAR NGR";
+//let source_hindi = "डॉ अंबेडकर नगर";
+//let destination = "S.HIRDARAM";
+//let destination_hindi = "";
+//let via = "indb-ujn";
+//let adult = 2;
+//let child = 0;
+//let train = "Express";
+//let train_hindi = "एक्सप्रेस";
+//let date = "11/10/2024";
+//let time = "11:07";
+//let number = "6232625599";
+//let distance = "256";
+
+
+
+let fare =  100;
+let source = "Dr. Ambedkar Nagar Weekly Express";
+let source_hindi = "डॉ. अम्बेडकर नगर साप्ताहिक एक्सप्रेस";
 let destination = "S.HIRDARAM";
 let destination_hindi = "";
-let via = "indb-ujn";
-let adult = 2;
+let via = "SEH";
+let adult = 1;
 let child = 0;
 let train = "Express";
 let train_hindi = "एक्सप्रेस";
-let date = "11/10/2024";
-let time = "11:07";
+let date = "21/10/2024";
+let time = "11:09";
 let number = "6232625599";
-let distance = "256";
-
-
-
-
+let distance = "183";
 
 
 // show.html
