@@ -16,11 +16,11 @@
 
 
 let fare =  100;
-let source = "Dr. Ambedkar Nagar Weekly Express";
-let source_hindi = "डॉ. अम्बेडकर नगर साप्ताहिक एक्सप्रेस";
-let destination = "S.HIRDARAM";
+let source = "S.HIRDARAM";
+let source_hindi = "";
+let destination = "UJJAIN";
 let destination_hindi = "";
-let via = "SEH";
+let via = "MKC";
 let adult = 1;
 let child = 0;
 let train = "Express";
