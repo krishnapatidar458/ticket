@@ -15,7 +15,7 @@
 
 
 
-let fare =  100;
+let fare =  70;
 let source = "S.HIRDARAM";
 let source_hindi = "";
 let destination = "UJJAIN";
@@ -25,8 +25,8 @@ let adult = 1;
 let child = 0;
 let train = "Express";
 let train_hindi = "एक्सप्रेस";
-let date = "21/10/2024";
-let time = "11:09";
+let date = "22/10/2024";
+let time = "2:09";
 let number = "6232625599";
 let distance = "183";
 
