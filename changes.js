@@ -15,7 +15,7 @@
 
 
 
-let fare =  140;
+let fare =  280;
 let source = "Nimach";
 let source_hindi = "";
 let destination = "S.HIRDARAM";
