@@ -26,7 +26,7 @@ let child = 0;
 let train = "Express";
 let train_hindi = "एक्सप्रेस";
 let date = "30/11/2024";
-let time = "1:00";
+let time = "7:00";
 let number = "623825599";
 let distance = "173";
 
