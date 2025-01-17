@@ -27,7 +27,7 @@ let train = "Express";
 let train_hindi = "एक्सप्रेस";
 let date = "17/01/2025";
 let time = "2:47";
-let number = "623825599";
+let number = "623825591";
 let distance = "412";
 
 
