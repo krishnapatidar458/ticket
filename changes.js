@@ -16,11 +16,11 @@
 
 
 let fare = 50;
-let source = "Ujjain Js";
+let source = "UJJAIN";
 let source_hindi = "";
-let destination = "Ratlam Js";
+let destination = "RATLAM JUNCTION";
 let destination_hindi = "";
-let via = "Ngd";
+let via = "NAD";
 let adult = 1;
 let child = 0;
 let train = "Express";
