@@ -15,12 +15,12 @@
 
 
 
-let fare = 85;
+let fare = 95;
 let source = "INDORE JUNCTION";
 let source_hindi = "";
-let destination = "BHOPAL JUNCTION";
+let destination = "SANT HIRDARAM NAGAR";
 let destination_hindi = "";
-let via = "MKC";
+let via = "UJN";
 let adult = 1;
 let child = 0;
 let train = "Express";
@@ -28,7 +28,7 @@ let train_hindi = "एक्सप्रेस";
 let date = "05/02/2025";
 let time = "12:48";
 let number = "623825571";
-let distance = "217";
+let distance = "252";
 
 
 // show.html
