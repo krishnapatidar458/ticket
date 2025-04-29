@@ -15,20 +15,20 @@
 
 
 
-let fare = 90;
-let source = "INDORE JUNCTION";
+let fare = 75;
+let source = "S.HIRADARAM";
 let source_hindi = "";
-let destination ="MALHARGARH";
+let destination ="UJJAIN JS";
 let destination_hindi = "";
 let via = "RTM";
 let adult = 1;
 let child = 0;
 let train = "Express";
 let train_hindi = "एक्सप्रेस";
-let date = "09/02/2025";
+let date = "29/04/2025";
 let time = "03:47";
 let number = "623825571";
-let distance = "226";
+let distance = "173";
 
 
 // show.html
