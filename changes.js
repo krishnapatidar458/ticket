@@ -15,10 +15,10 @@
 
 
 
-let fare = 75;
-let source = "S.HIRADARAM";
+let fare = 50;
+let source = "UJJAIN JS";
 let source_hindi = "";
-let destination ="UJJAIN JS";
+let destination ="RATLAM JS";
 let destination_hindi = "";
 let via = "RTM";
 let adult = 1;
@@ -26,9 +26,9 @@ let child = 0;
 let train = "Express";
 let train_hindi = "एक्सप्रेस";
 let date = "29/04/2025";
-let time = "03:47";
+let time = "10:48";
 let number = "623825571";
-let distance = "173";
+let distance = "96";
 
 
 // show.html
