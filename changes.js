@@ -16,9 +16,9 @@
 
 
 let fare = 60;
-let source = "INDORE JS";
+let source = "RATLAM JS";
 let source_hindi = "";
-let destination ="RATLAM JS";
+let destination ="HARKIYAKHAL";
 let destination_hindi = "";
 let via = "";
 let adult = 2;
@@ -26,7 +26,7 @@ let child = 0;
 let train = "DEMU";
 let train_hindi = "डेमू";
 let date = "02/08/2025";
-let time = "05:37";
+let time = "08:37";
 let number = "6238255718";
 let distance = "119";
 
