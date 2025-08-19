@@ -15,20 +15,20 @@
 
 
 
-let fare = 180;
-let source = "INDORE JS";
+let fare = 140;
+let source = "NIMACH";
 let source_hindi = "";
-let destination ="MALHARGARH";
+let destination ="BHOPAL";
 let destination_hindi = "";
 let via = "";
-let adult = 2;
+let adult = 1;
 let child = 0;
 let train = "EXPRESS";
 let train_hindi = "एक्सप्रेस";
-let date = "07/08/2025";
-let time = "03:37";
+let date = "19/08/2025";
+let time = "05:37";
 let number = "6238255718";
-let distance = "238";
+let distance = "416";
 
 
 // show.html
