@@ -18,7 +18,7 @@
 let fare = 140;
 let source = "NIMACH";
 let source_hindi = "";
-let destination ="BHOPAL";
+let destination ="BHOPAL JS";
 let destination_hindi = "";
 let via = "";
 let adult = 1;
