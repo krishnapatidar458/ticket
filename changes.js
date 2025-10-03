@@ -15,7 +15,7 @@
 
 
 
-let fare = 80;
+let fare = 160;
 let source = "SANT HRIDARAM NAGAR";
 let source_hindi = "";
 let destination = "INDORE JS";
