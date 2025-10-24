@@ -15,20 +15,20 @@
 
 
 
-let fare = 140;
-let source = "SANT HRIDARAMNAGAR";
+let fare = 155;
+let source = "NEEMUCH";
 let source_hindi = "";
-let destination = "NEEMUCH";
+let destination = "BHOPAL JS";
 let destination_hindi = "";
 let via = "";
 let adult = 1;
 let child = 0;
 let train = "EXPRESS";
 let train_hindi = "एक्सप्रेस";
-let date = "09/10/2025";
-let time = "12:07";
+let date = "24/10/2025";
+let time = "20:21";
 let number = "6238255718";
-let distance = "411";
+let distance = "413";
 
 
 // show.html
