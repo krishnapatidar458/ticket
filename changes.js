@@ -16,17 +16,17 @@
 
 
 let fare = 90;
-let source = "MALHARGARH";
+let source = "INDORE JS";
 let source_hindi = "";
-let destination = "INDORE JS";
+let destination = "MALHARGARH";
 let destination_hindi = "";
 let via = "";
 let adult = 1;
 let child = 0;
 let train = "EXPRESS";
 let train_hindi = "एक्सप्रेस";
-let date = "26/10/2025";
-let time = "5:21";
+let date = "20/12/2025";
+let time = "3:21";
 let number = "6238255718";
 let distance = "230";
 
