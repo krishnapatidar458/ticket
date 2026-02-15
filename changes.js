@@ -15,20 +15,20 @@
 
 
 
-let fare = 80;
-let source = "SANT HIRDARAM NAGAR";
+let fare = 95;
+let source = "INDORE JS";
 let source_hindi = "";
-let destination = "Indore JS";
+let destination = "SANT HIRDARAM NAGAR";
 let destination_hindi = "";
 let via = "";
 let adult = 1;
 let child = 0;
 let train = "EXPRESS";
 let train_hindi = "एक्सप्रेस";
-let date = "07/02/2026";
-let time = "4:55";
+let date = "15/02/2026";
+let time = "6:55";
 let number = "6238255718";
-let distance = "217";
+let distance = "207";
 
 
 // show.html
