@@ -1,7 +1,7 @@
 //let fare =  256;
 //let source = "DR AMBEDKAR NGR";
 //let source_hindi = "डॉ अंबेडकर नगर";
-//let destination = "S.HIRDARAM";
+let destination = "S.HIRDARAM";
 //let destination_hindi = "";
 //let via = "indb-ujn";
 //let adult = 2;
@@ -18,7 +18,7 @@
 let fare = 95;
 let source = "INDORE JS";
 let source_hindi = "";
-let destination = "SANT HIRDARAM NAGAR”;
+//let destination = "SANT HIRDARAM NAGAR”;
 let destination_hindi = "";
 let via = "";
 let adult = 1;
