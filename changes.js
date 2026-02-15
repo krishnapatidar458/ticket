@@ -18,7 +18,7 @@
 let fare = 95;
 let source = "INDORE JS";
 let source_hindi = "";
-let destination = "SANT HIRDARAM NAGAR";
+let destination = "SANT HIRDARAM NAGAR”;
 let destination_hindi = "";
 let via = "";
 let adult = 1;
